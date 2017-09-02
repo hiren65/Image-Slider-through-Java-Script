@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	width: 100%;
+	padding: 0;
+	
+	
+}
+h1{
+	text-align: center;
+	color: #3d1f5c;
+}
+#mainBox{
+	display: block;
+	background-color: #c1b59b;
+	width: 90%;
+	margin-left: 5%;
+	height: 300px;
+	border: 2px solid hsla(359,80%,50%,1.00);
+	padding: 0;
+	
+}
+img{
+	
+	width: 200px;
+	height: 280px;
+	display: block;
+	background-color: hsla(0,5%,44%,1.00);
+	margin-left: 40%;
+	padding: 5px;
+	margin-top: 5px
+}
+#after_preload{
+	display: block;
+	background-color: hsla(283,64%,52%,0.45);
+	width: 90%;
+	height: 200px;
+	margin-left: 5%;
+}
+
